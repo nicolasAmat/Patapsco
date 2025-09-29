@@ -1,2 +1,1 @@
-# Patapsco
-Presburger Arithmetic To Automata Predicting State COmplexity
+# Patapsco - Presburger Arithmetic To Automata Prober of State COmplexity
